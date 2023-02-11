@@ -1,3 +1,4 @@
 rootProject.name = 'multi-module-application'
 include 'core'
+include 'api'
 
